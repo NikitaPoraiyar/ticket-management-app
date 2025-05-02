@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import styles from '../styles/sidenavbar.module.css';
 import Logo from '../assets/halfLogo.png';
 import symbol1 from '../assets/symbol1.png';
-import { GoHome } from "react-icons/go";
+import { GoHome } from 'react-icons/go';
 import symbol2 from '../assets/symbol2.png';
 import { MdOutlineMessage } from "react-icons/md";
 import symbol3 from '../assets/symbol3.png';
