@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import styles from '../styles/chat.module.css';
+import styles from '../styles/Chat.module.css';
 import sendbtn from '../assets/Sendbtn.png';
 import chatbotImg1 from '../assets/chatbot_header.png';
 import chatbotImg2 from '../assets/chatbot_avatar.png';
