@@ -42,7 +42,7 @@ function LandingPage() {
         useEffect(() => {
             const fetchStyles = async () => {
                 try {
-                    const response = await fetch('http://localhost:3000/api/users/styles');
+                    const response = await fetch('https://ticket-management-app.onrender.com/api/users/styles');
                     if (response.ok) {
                         const data = await response.json();
                         if (data.data && data.data.length > 0) {
