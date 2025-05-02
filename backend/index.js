@@ -15,7 +15,14 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 app.use(bodyParser.json());
-app.use(cors());
+
+const corsOptions = {
+    origin: 'https://ticket-management-app-gamma.vercel.app', 
+    methods: ['GET', 'POST', 'PUT', 'DELETE'], 
+  };
+  
+app.use(cors(corsOptions)); 
+
 app.use(log);
 app.use('/api/users', userRouter);
 app.use('/api/chat', chatFormRouter);
