@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.adminpage_container{
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+.adminpage_sidebarcontainer{
+    width: 6%;
+    /* border: 2px solid red; */
+}
+
+.adminpage_contentcontainer{
+    flex: 1;
+    width: 94%;
+    height: 100vh;
+    overflow: auto;
+    /* border: 2px solid black; */
+}
+

@@ -1,0 +1,872 @@
+[2025-04-30T23:52:43.534Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-04-30T23:52:43.539Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-04-30T23:52:43.542Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-04-30T23:52:43.548Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:02.978Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:02.981Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:02.983Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:02.987Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:04.972Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:04.975Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:04.977Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:04.981Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:19.969Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:19.972Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:19.974Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:19.979Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:21.965Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:21.968Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:21.971Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:21.973Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:39.972Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:39.976Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:39.978Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:57:39.982Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:39.971Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:39.974Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:39.976Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:39.980Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:44.978Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:44.981Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:44.984Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:44.988Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:45.964Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:45.967Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:45.969Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:45.972Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:48.964Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:48.967Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:48.969Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:48.973Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:54.960Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:54.962Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:54.965Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:54.968Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:57.969Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:57.973Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:57.975Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T00:58:57.979Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T01:12:39.972Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T01:12:39.975Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T01:12:39.977Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T01:12:39.981Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:204:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T02:13:15.870Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T02:13:15.872Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:231:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T02:13:15.879Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:86:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T02:13:15.883Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:231:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T02:32:30.737Z] TypeError: Class constructor ObjectId cannot be invoked without 'new'
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:142:62
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-01T03:41:30.363Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:87:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T03:41:30.376Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:243:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T03:41:30.382Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:87:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T03:41:30.392Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:243:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T03:42:08.672Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:87:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T03:42:08.679Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:243:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T03:42:08.686Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:87:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T03:42:08.696Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:243:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T03:49:56.341Z] TypeError: Class constructor ObjectId cannot be invoked without 'new'
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:142:62
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-01T08:07:55.572Z] TypeError: Class constructor ObjectId cannot be invoked without 'new'
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:142:62
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-01T08:34:00.787Z] TypeError: Class constructor ObjectId cannot be invoked without 'new'
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:142:62
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-01T08:34:01.897Z] TypeError: Class constructor ObjectId cannot be invoked without 'new'
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:142:62
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-01T08:34:02.071Z] TypeError: Class constructor ObjectId cannot be invoked without 'new'
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:142:62
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-01T08:34:02.256Z] TypeError: Class constructor ObjectId cannot be invoked without 'new'
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:142:62
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-01T08:34:02.491Z] TypeError: Class constructor ObjectId cannot be invoked without 'new'
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:142:62
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-01T08:34:26.344Z] TypeError: Class constructor ObjectId cannot be invoked without 'new'
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:142:62
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-01T08:47:30.714Z] TypeError: Class constructor ObjectId cannot be invoked without 'new'
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:142:62
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-01T08:56:52.468Z] TypeError: Cannot destructure property 'name' of 'req.body' as it is undefined.
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:114:17
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-05-01T08:56:52.474Z] TypeError: Cannot destructure property 'name' of 'req.body' as it is undefined.
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:114:17
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-05-01T08:56:54.415Z] TypeError: Cannot destructure property 'name' of 'req.body' as it is undefined.
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:114:17
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-05-01T08:56:54.434Z] TypeError: Cannot destructure property 'name' of 'req.body' as it is undefined.
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:114:17
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-05-01T08:57:49.266Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:87:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T08:57:49.280Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:87:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T08:57:49.275Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:243:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T08:57:49.286Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:243:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T08:58:07.808Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:87:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T08:58:07.811Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:243:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T08:58:07.820Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:87:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T08:58:07.825Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:243:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T11:59:18.700Z] TypeError: Class constructor ObjectId cannot be invoked without 'new'
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:142:62
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-01T12:38:37.047Z] TypeError: Class constructor ObjectId cannot be invoked without 'new'
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:142:62
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

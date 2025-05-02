@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.signup_container{
+    display: flex;
+}
+
+.rightSignup_container{
+    width: 36%;    
+}
+
+.sidebanner_container > img{
+    height: 100vh;
+    width: 100%;
+}
+
+.leftSignup_container{
+    width: 64%;
+    padding: 30px;
+}
+
+.signupContent_container{
+    padding-top: 15px;
+    padding-left: 300px;
+    height: 80vh;
+    width: 51%;
+}
+
+.formheaderSignup{
+    display: flex;
+    justify-content: space-between;
+    font-family: "Poppins", sans-serif;
+}
+
+.formheaderSignup > h2{
+    font-weight: 500;
+}
+
+.formheaderSignup > p{
+    font-size: 11px;
+    padding-top: 12px;
+}
+
+form{
+    padding-top: 10px;
+}
+
+.formfield{
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Poppins',sans-serif;
+    color: #666666;
+}
+
+.formfield > label{
+    font-size: 12px;
+}
+
+.formfield > input{
+    width: 470px;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid #C3C3C3;
+}
+
+.terms_text{
+    padding-bottom: 5px;
+    width: 350px;
+    font-family: "Poppins", sans-serif;
+    font-size: 13px;
+    padding-left: 10px;
+}
+
+.terms_textContainer{
+    display: flex;
+    gap: 4px;
+    padding-top: 2px;
+}
+
+.termConditions_link{
+
+    padding-left: 270px;
+    color: #676B5F;
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+}
+
+.signupbtn{
+    width: 470px;
+    height: 45px;
+    border-radius: 20px;
+    color: #ffff;
+    background-color: #C3C3C3;
+    font-weight:500;
+    border: none;
+    margin-top: 20px;
+    font-size: medium;
+    cursor: pointer;
+    font-family: "Poppins", sans-serif;
+}
+
+
+
+

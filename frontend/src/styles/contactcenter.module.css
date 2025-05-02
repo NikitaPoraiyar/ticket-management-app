@@ -1,0 +1,522 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contactcenter_container{
+    /* padding: 5px; */
+    display: flex;
+    height: 100vh;
+    margin-left: 1px;
+}
+
+.contact_leftcontainer{
+    width: 20%;
+    border-right: 2px solid #c3c3c3;
+}
+
+.chatlistcontainer_title>h3{
+    color: #6A6B70;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 60px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+}
+
+.chatslistcontainer_header{
+    border-bottom: 2px solid #D7D8D8;
+    margin-right: 5px;
+    color: #888888;
+    margin-left: 10px;
+}
+
+.chatslistcontainer_header5{
+    border-bottom: 3px solid #B9BABA;
+    width: fit-content;
+    margin-left: 4px;
+    cursor: pointer;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+}
+
+.chatslist_container{
+    padding-top: 10px;
+}
+
+.chatsbtn_container{
+    display: flex;
+    flex-direction: row;
+    height: 45px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+
+.blueline_container{
+    display: none;
+}
+
+.afterclick_blueline{
+    /* background-color: #; */
+    /* width: 1px; */
+    height: 25px;
+    /* background-color: #184E7F;  */
+    border: 3px solid #184E7F;
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-top: 6px;}
+
+.chatsbtn_innercontainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 260px;
+    border-radius: 20px;
+    padding: 5px;
+    margin-left: 15px;
+}
+
+.chatsbtn_innercontainer> .chatsbtn_content > .chatnumber{
+    font-family: "Inter";
+    font-weight: 600;
+}
+
+.chatsbtn_innercontainer > .chatsbtn_content > p{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+}
+
+.clickedchatbtn_innercontainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #EFEFEF;
+    width: 255px;
+    border-radius: 25px;
+    padding: 5px;
+    font-family: "Inter", sans-serif;
+    /* padding-right: 20px */
+}
+
+.clickedchatbtn_innercontainer > .chatsbtn_content > .chatnumber{
+    font-weight:600
+}
+
+.clickedchatbtn_innercontainer > .chatsbtn_content > p{
+    font-size: 13px;
+}
+
+.chatsbtn_img > img{
+    background-color: #D9D9D9;
+    border-radius: 15px;
+}
+
+.chatsbtn_content{
+    padding-left: 5px;
+}
+
+.chatnumber{
+    color: #5E9BD5;
+}
+
+
+.empty_middlecontainer{
+    width: 50%;
+}
+
+.contact_middlecontainer{
+    width: 50%;
+    color: #86898C;
+    padding: 10px;
+}
+
+.chatcontent_titlecontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: solid 2px #c3c3c3;
+    height: 30px;
+    padding: 10px;
+}
+
+.chatcontent_titlecontainer > h4{
+    font-size:large;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+}
+
+.chatcontent_maincontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 93%;
+    width: 100%;
+    font-family: "Inter", sans-serif;
+}
+
+.chatcontent_container{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.chatcontent_container > div > p{
+    margin-left: 10px;
+    font-size: medium;
+}
+
+.responsecontent_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.responsecontent_container > div > .responsename{
+    color:#5E9BD5;
+}
+
+.responsecontent_container > div{
+    margin-left: 10px;
+}
+
+.dateline_container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.dateline_container .line{
+    flex: 1;
+    height: 1px;
+    background-color: #cccc;
+}
+
+.dateline_container .date{
+    font-size: 14px;
+    color: #888888;
+    white-space: nowrap;
+    padding: 0 10px;
+}
+
+.chatcontent_textarea{
+    margin-left: 10px;
+    height: 120px;
+    width: 700px;
+    position: relative;
+    
+}
+
+.chatcontent_textarea > textarea{
+    width: 670px;
+    height: 90px;
+    border-radius: 10px;
+    border: 2px solid #D1D6DA;
+    padding: 10px;
+    font-size: large;
+}
+
+.chatcontent_textarea > img{
+    position: absolute;
+    bottom: 20px;
+    right: 15px;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+.contact_rightcontainer{
+    width: 30%;
+    border: 2px solid #c3c3c3;
+    color: #939598;
+    font-family: "Inter", sans-serif;
+}
+
+.rightcontainer_header{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.rightcontainer_header > h5{
+    margin-top: 7px;
+    padding-left: 5px;
+}
+
+.rightcontainer_details{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.displaydetail{
+    border-radius: 10px;
+    margin: 2px;
+    padding: 3px;
+    border: solid 2px #D1D6DA;
+    background-color: #ffff;
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+}
+
+.displaydetail > img{
+    padding-right: 5px;
+}
+
+.rightcontainer_teammates{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+
+.blueheader{
+    color: #184E7F;
+    margin-left: 5px;
+    font-weight: bolder;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    font-size: 14px;
+}
+
+.display_teammates{
+    background-color: #ffff;
+    border: solid 2px #D1D6DA;
+    border-radius: 10px;
+    margin-right: 2px;
+    margin-left: 2px;
+    margin-bottom: 15px;
+    padding: 1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.display_teammates > div{
+    display: flex;
+    flex-direction: row;
+    align-items:center ;
+}
+
+
+
+
+
+.selectadmin_container{
+    border: solid 2px #D1D6DA;
+    border-radius: 10px;
+    margin: 2px;
+    height: auto;
+    background-color: #ffff;
+}
+
+.selectadmin_container > hr{
+    color: #D1D6DA;
+}
+
+.outereachmember_container{
+    border-radius: 10px;
+}
+
+
+.selectadmin_container > .outereachmember_container > .eachmember_container{
+    background-color: #ffff;
+    margin: 2px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+
+}
+
+.eachmember_container > span{
+    font-size: 15px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.displayticket_status{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid #D1D6DA;
+    background-color: #ffff;
+    margin: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.displayticket_status > span{
+    font-size:15px;
+}
+
+.displayticket_status > img{
+    padding-right: 5px;
+}
+
+.displayticket_status > div{
+    margin-left: 250px;
+}
+
+.ticketstatus_options{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #D1D6DA;
+    margin: 5px;
+    background-color: #ffff;
+    border-radius: 10px;
+}
+
+.ticketstatus_options > hr{
+    color: #D1D6DA;
+}
+
+.ticketstatus_options > span{
+    padding: 5px;
+    font-size:13px;
+    cursor: pointer;
+
+}
+
+.dropdowmIcon{
+    width: fit-content;
+    cursor: pointer;
+    margin-right: 19px;
+
+}
+
+.dropdowmIcon > img{
+    width: 13px;
+    height: 10px;
+}
+
+
+
+
+.contact_leftcontainer,.contact_middlecontainer,.contact_rightcontainer{
+    padding-top: 10px;
+}
+
+
+.contact_leftcontainer,.contact_rightcontainer{
+    background-color: #FAFBFC;
+
+}
+
+
+.assignedtoteammate_msg > p{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+.confirmTeammate_container{
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 32px;
+    right: 5px;
+    height: 100px;
+    width: 372px;
+    background-color: #FAFBFC;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 15px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.confirmTeammate_container >p{
+    font-size: 14px;
+    color: black;
+}
+
+.confirmTeammate_btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.confirmTeammate_btn > button{
+    margin-left: 5px;
+    cursor: pointer;
+    height: 30px;
+    width: 70px;
+    border-radius: 15px;
+    border: none;
+}
+
+.addteammate_confirmbtn{
+    background-color: #184E7F;
+    color: #FAFBFC;
+}
+
+.addteammate_cancelbtn{
+    color: #AFAFAF;
+    background-color: #ffff;
+
+}
+
+
+.resolved_popup{
+    height: 80px;
+    width: 365px;
+    background-color: #FAFBFC;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 15px;
+    margin-left: 10px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.resolved_popup > p{
+    font-size: 14px;
+    color: black;
+}
+
+.resolved_popup > div{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.resolved_popup > div > button{
+    margin-left: 5px;
+    cursor: pointer;
+    height: 30px;
+    width: 100px;
+    border-radius: 15px;
+    border: none;
+}
+
+.resolvedpopup_cancelbtn{
+    color: #AFAFAF;
+    background-color: #ffff;
+}
+
+.resolvedpopup_confirmbtn{
+    background-color: #184E7F;
+    color: #FAFBFC;
+}
+
+
+
+
+

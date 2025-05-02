@@ -1,0 +1,12 @@
+[2025-04-27T07:11:19.578Z] Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\sign.js:111:20)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:46:27
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-04-27T07:11:46.937Z] Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\sign.js:111:20)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:46:27
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-04-27T07:12:28.861Z] Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\sign.js:111:20)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:46:27
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

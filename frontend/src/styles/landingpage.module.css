@@ -1,0 +1,507 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.landingpage{
+    background-color: #f8fbfe;
+}
+
+
+
+.navbar_container{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 120px;
+    padding-left: 120px;
+    padding-top: 4px;
+}
+
+.nav_right{
+    align-content: center;
+}
+
+.login_btn{
+    color: #36364A;
+    background-color: transparent;
+    border: none;
+    padding: 5px;
+    height: 30px;
+    width: 70px;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 600;
+}
+
+.signup_btn{
+    background-color: #244779;
+    color: #ffff;
+    border: none;
+    border-radius: 8px;
+    padding: 5px;
+    height: 30px;
+    width: 70px;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 600;
+}
+
+.bannersection_container{
+    display: flex;
+    padding-top: 40px;
+    padding-right: 140px;
+    padding-left: 120px;
+    padding-bottom: 100px;
+}
+
+.leftbanner_container{
+    padding-top: 70px;
+    font-family: 'Barlow', sans-serif;
+}
+
+.leftbanner_container > p,h1{
+    color: #30404D;
+    padding-bottom: 15px;
+    
+}
+
+.leftbanner_container> h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+.leftbanner_container > p{
+    width: 600px;
+}
+
+.button_container{
+    display: flex;
+    width: 289px;
+    justify-content: space-between;
+}
+
+.left_btn1{
+    background-color: #244779;
+    color: #ffff;
+    font-weight:300;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 130px;
+}
+
+.playbtn{
+    width: 30px;
+}
+
+.left_btn2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: bold;
+    color: #30404D;
+    gap: 2px;
+    cursor: pointer;
+}
+
+.rightbanner_container{
+    padding-top: 5px;
+}
+
+.groupedImg{
+    position: relative;
+
+}
+
+.top_image{
+    position: absolute;
+    left: 320px;
+    bottom: 600px;
+}
+
+.bottom_image{
+    position: absolute;
+    top: 380px;
+    left: 400px;
+}
+
+.companyList_container{
+    display: flex;
+    justify-content: space-between;
+    background-color: #edf2f8; 
+    padding: 40px 120px;
+    box-shadow: 0 5px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.chatmain_container{
+    padding-left: 147vh;
+    position: fixed;
+    z-index: 990;
+    bottom: 90px;
+    display: invisible;
+}
+
+.chatbtn_container{
+    padding-left: 170vh;
+
+    position: fixed;
+    z-index: 1000;
+    bottom: 5px;
+}
+
+.welcomeChat_container{
+    position: absolute;
+    bottom: 85px;
+    background-color: #ffff;
+    box-shadow: 0 4px 28px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    width: 240px;
+    height: 100px;
+}
+
+.welcomeChat_container > img{
+    position: absolute;
+    bottom: 80px;
+    left: 90px;
+}
+
+.close{
+    margin-left: 220px;
+    font-size: 16px;
+    padding-top: 2px;
+    cursor: pointer;
+}
+
+.chatbtn_text{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+}
+
+.chatbtn{
+    border: none;
+    background-color: transparent;
+    position: absolute;
+    bottom: 15px;
+    padding-left: 180px;
+}
+
+.info_container{
+    padding-top: 5em;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Barlow', sans-serif;
+}
+
+.infoContent_container{
+    width: 60%;
+    padding-left: 20px;
+}
+
+.topinfo_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 450px;
+    padding-right: 450px;
+    color: #30404D;
+}
+
+.topinfo_container > h1{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    word-spacing: 2px;
+}
+
+.topinfo_container > p{
+    word-spacing: 2px;
+    text-align: center;
+}
+
+.bottominfo_container{
+    display: flex;
+    margin-right: 120px;
+    margin-left: 120px;
+    margin-top: 50px;
+    border: 1px solid #98A8B3;
+    border-radius: 1em;
+    padding-left: 15px;
+    padding-bottom: 40px;
+    background-color: #ffff;
+}
+
+.infoContent_container{
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+
+    height: 350px;
+    padding-top: 50px;
+    color: #30404D;
+}
+
+.infoContent_section1{
+    width: 490px;
+    word-spacing: 2px;
+    padding-left: 20px;
+}
+
+.infoContent_section1 > h2{
+    font-weight: bold;
+}
+
+.infoContent_section2{
+    width: 520px;
+    word-spacing: 2px;
+    padding-left: 20px;
+}
+
+.infoContent_section2 > h2{
+    font-weight: bold;
+}
+
+.infoContent_section3{
+    width: 500px;
+    word-spacing: 2px;
+    padding-left: 20px;
+}
+
+.infoContent_section3 > h2{
+    font-weight: bold;
+}
+
+.infoImg_container{
+    position: relative;
+    width: 40%;
+    padding-right: 20px;
+    padding-top: 30px;
+    border-radius: 100px;
+}
+
+.infoImg1{
+    width: 100%;
+}
+
+.infoImg1{
+    width: 400px;
+    height: 350px;
+}
+
+.infoImg2{
+    position: absolute;
+    width: 260px;
+    bottom: 270px;
+    left: 140px;
+}
+
+.plan_container{
+    padding-bottom: 100px;
+    font-family: 'Barlow', sans-serif;
+}
+
+.topPlan_container{
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 450px;
+    padding-right: 450px;
+    color: #30404D;
+}
+
+.bottomPlan_container{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 50px;
+}
+
+.plan1_container{
+    width: 45%;
+    padding-top: 20px;
+    padding-left: 20px;
+    background-color: #ffff;
+    border: 1px solid #98A8B3;
+    border-radius: 10px;
+}
+
+.plan1_container >h2,p,h3,li{
+    color: #30404D;
+}
+
+.plan1_container > h2{
+    font-weight: light;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.plan1_container > p{
+    width: 460px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+.plan1_container >h1{
+    color: #3A7ABD;
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.plan1_container >ul {
+    list-style-type: none;
+}
+
+.plan1_container >ul >li{
+    display: flex;
+    padding-top: 15px;
+}
+
+.plan1_container >h1 >span{
+    color: #98A8B3;
+    font-size: small;
+    
+}
+
+.plan1_container > ul > li >span {
+    width: 20px;
+    height: 20px;
+    background-color: #e6f0fb;
+    color: #3b82f6;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.plan1Signup_btn{
+    margin-top: 120px;
+    width: 95%;
+    height: 50px;
+    border-radius: 20px;
+    background-color: transparent;
+    color: #244779;
+    border: 2px solid #aab7c9;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.plan2_container{
+    width: 45%;
+    padding-top: 20px;
+    padding-left: 20px;
+    background-color: #ffff;
+    border: 1px solid #98A8B3;
+    border-radius: 10px;
+}
+
+.plan2_container >h2,p,h3,li{
+    color: #30404D;
+}
+
+.plan2_container > h2{
+    font-weight: light;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.plan2_container > p{
+    width: 460px;
+    padding-bottom: 10px;
+    font-size: 19px;
+}
+
+.plan2_container >h1{
+    color: #3A7ABD;
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.plan2_container >ul {
+    list-style-type: none;
+    padding-bottom: 50px
+}
+
+.plan2_container > ul > li{
+    display: flex;
+    padding-top: 15px;
+}
+
+.plan2_container >h1 >span{
+    color: #98A8B3;
+    font-size: small;
+    
+}
+
+.plan2_container > ul > li >span {
+    width: 20px;
+    height: 20px;
+    background-color: #e6f0fb;
+    color: #3b82f6;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.plan2Signup_btn{
+    width: 95%;
+    height: 50px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    background-color: transparent;
+    color: #244779;
+    border: 2px solid #aab7c9;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.footerLogo_container{
+    grid-area: logo;
+}
+
+.footer{
+    display: grid;
+    grid-template-areas: 
+        "logo . . ."
+        "logo . . .";
+    gap: 50px;
+    background-color: #ffff;
+    padding: 100px 120px;
+    font-family: 'Inter', sans-serif;
+}
+
+.footer > div > ul{
+    list-style-type: none;
+}
+
+.footer > div> ul > li{
+    padding-bottom: 5px;
+
+}
+
+.footer > div> ul > li > a{
+    text-decoration: none;
+    color: #1B1A1A;
+    font-size: 18px;
+}
+
+.footer > div > h3{
+    padding-bottom: 10px;
+    color: #1B1A1A;
+}
+
+.socialLinks{
+    padding-top: 100px;
+
+}
+

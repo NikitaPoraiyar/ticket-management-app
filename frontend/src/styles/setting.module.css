@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.settingpage_container{
+
+    margin: 20px;
+}
+
+.settingpage_headercontainer{
+    padding-bottom: 50px;
+}
+
+.settingpage_headercontainer > h3{
+    color: #636060;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+}
+
+.settingpage_editcontainer{
+    background-color: #FAFBFC;
+    padding: 20px;
+    border-radius: 20px;
+    height: 450px;
+}
+
+.editcontainer_header{
+    border-bottom: 2px solid #737373;
+    margin-bottom: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    color: #184E7F;
+}
+
+.editcontainer_header > h5{
+    border-bottom: 2px solid #184E7F;
+    width: 80px;
+    padding-left: 5px;
+}
+
+.editfield{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 15px;
+}
+
+.editfield > label{
+    font-family: "Poppins";
+    font-size: 15px;
+    color: #5E5E5E;
+}
+
+.editfield > input{
+    width: 40%;
+    height: 15px;
+    padding: 10px;
+    padding-left: 15px;
+    border-radius: 10px;
+    border: 1px solid #3E3E3E;
+    color: black;
+    font-family: "Poppins";
+    font-size: 14px;
+
+}
+
+.editform_btncontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.editform_btncontainer > button{
+    width: 160px;
+    height: 35px;
+    padding: 4px;
+    border-radius: 10px;
+    background-color: #184E7F;
+    color: #ffff;
+    border: none;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+}
+

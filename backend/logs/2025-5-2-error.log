@@ -1,0 +1,299 @@
+[2025-05-01T21:17:18.783Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:87:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T21:17:18.787Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:264:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T21:17:18.790Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:87:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T21:17:18.794Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:264:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T21:22:11.708Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:87:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T21:22:11.711Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:264:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T21:22:11.714Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:87:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-01T21:22:11.717Z] TokenExpiredError: jwt expired
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:264:29
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+[2025-05-02T04:45:37.719Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.send (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:161:12)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:250:15)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:45:37.733Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:45:46.870Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:45:46.882Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:46:19.507Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:46:19.520Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:46:52.565Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:46:52.574Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:47:05.571Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:47:05.581Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:47:10.571Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:47:10.582Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:47:12.569Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:47:12.580Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:47:16.563Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:47:16.573Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:47:19.569Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:47:19.578Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:47:23.553Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:47:23.562Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:47:27.653Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:47:27.664Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:47:36.023Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T04:47:36.033Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:247:10)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:307:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T05:58:11.442Z] ReferenceError: currentPassword is not defined
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:390:46
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T06:38:56.607Z] ValidationError: User validation failed: teammates.0.username: Path `username` is required., teammates.1.username: Path `username` is required.
+    at Document.invalidate (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\document.js:3351:32)
+    at Subdocument.invalidate (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\types\subdocument.js:229:12)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\document.js:3112:17
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+[2025-05-02T06:43:59.635Z] ValidationError: User validation failed: teammates.0.username: Path `username` is required., teammates.1.username: Path `username` is required.
+    at Document.invalidate (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\document.js:3351:32)
+    at Subdocument.invalidate (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\types\subdocument.js:229:12)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\document.js:3112:17
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+[2025-05-02T06:49:54.177Z] ValidationError: User validation failed: teammates.0.username: Path `username` is required., teammates.1.username: Path `username` is required.
+    at Document.invalidate (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\document.js:3351:32)
+    at Subdocument.invalidate (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\types\subdocument.js:229:12)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\document.js:3112:17
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+[2025-05-02T06:52:58.812Z] ValidationError: User validation failed: teammates.0.username: Path `username` is required., teammates.1.username: Path `username` is required.
+    at Document.invalidate (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\document.js:3351:32)
+    at Subdocument.invalidate (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\types\subdocument.js:229:12)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\document.js:3112:17
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+[2025-05-02T07:11:33.742Z] ValidationError: User validation failed: teammates.0.username: Path `username` is required., teammates.1.username: Path `username` is required.
+    at Document.invalidate (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\document.js:3351:32)
+    at Subdocument.invalidate (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\types\subdocument.js:229:12)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\document.js:3112:17
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+[2025-05-02T07:11:33.745Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.send (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:161:12)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:250:15)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:280:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T07:13:49.168Z] ValidationError: User validation failed: teammates.0.username: Path `username` is required., teammates.1.username: Path `username` is required.
+    at Document.invalidate (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\document.js:3351:32)
+    at Subdocument.invalidate (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\types\subdocument.js:229:12)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\document.js:3112:17
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+[2025-05-02T07:13:49.170Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.send (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:161:12)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:250:15)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:280:25
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-02T07:16:57.317Z] ValidationError: User validation failed: teammates.0.username: Path `username` is required., teammates.1.username: Path `username` is required.
+    at Document.invalidate (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\document.js:3351:32)
+    at Subdocument.invalidate (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\types\subdocument.js:229:12)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\document.js:3112:17
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+[2025-05-02T07:16:57.320Z] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.send (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:161:12)
+    at ServerResponse.json (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\express\lib\response.js:250:15)
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:280:36
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

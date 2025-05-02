@@ -1,0 +1,264 @@
+[2025-04-28T12:10:34.051Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:69:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:10:34.059Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:69:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:11:02.799Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:69:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:11:02.804Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:69:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:14:34.922Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:69:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:14:34.931Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:69:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:16:06.591Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:70:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:16:06.598Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:70:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:16:08.594Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:70:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:16:08.598Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:70:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:16:11.596Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:70:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:16:11.602Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:70:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:16:12.578Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:70:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:16:12.582Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:70:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:16:28.602Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:70:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:16:28.607Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:70:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:16:37.111Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:70:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:16:37.116Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:70:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:19:03.001Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:76:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:19:03.009Z] ReferenceError: Cannot access 'user' before initialization
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:76:22
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:33:45.853Z] ReferenceError: user is not defined
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:18:30
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:33:55.544Z] ReferenceError: user is not defined
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:18:30
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:34:33.691Z] ReferenceError: user is not defined
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:18:30
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)
+[2025-04-28T12:39:41.650Z] ReferenceError: user is not defined
+    at file:///D:/Cuvette/FinalEvaluationTest2/backend/routes/user.js:18:30
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:147:12)
+    at next (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\lib\layer.js:152:17)
+    at D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:295:15
+    at processParams (D:\Cuvette\FinalEvaluationTest2\backend\node_modules\router\index.js:582:12)

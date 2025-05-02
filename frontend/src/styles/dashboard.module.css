@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.dashboard_container{
+    padding: 20px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.dashboardheader_container > h3{
+    color: #6A6B70;
+    font-family: 'Inter', sans-serif;
+}
+
+.search_dashboardcontainer{
+    border: solid 2px #E7E7E7;
+    border-radius: 6px;
+    width: 260px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 40px;
+    background-color: #FBFBFB;
+}
+
+.search_dashboardcontainer > input{
+    margin-left: 10px;
+    height: 30px;
+    padding: 5px;
+    border: none;
+    color: #B6B6B6;
+    background-color: #FBFBFB;
+    font-family: "Montserrat", sans-serif;
+}
+
+.search_dashboardcontainer > img{
+    height: 15px;
+    width: 15px;
+    padding-left: 15px;
+}
+
+
+
+.ticketnav_container{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid #8888;
+    margin-top: 45px;
+    margin-bottom: 20px;
+    position: sticky;
+}
+
+.ticketnav_container > div{
+    width: 95px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: #8888;
+    font-family: "Inter", sans-serif;
+    display: flex;
+    justify-content: center;
+
+}
+
+.ticketnav_container > div > h5{
+    cursor: pointer;
+    width: fit-content;
+
+}
+
+.allticket_selection{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.allticket_selection > img{
+    width: 18px;
+    height: 18px;
+    padding-right: 5px;
+}
+
+
+
+.selectednav{
+    border-bottom: #184E7F solid 4px;
+}
+
+.selectednav > h5{
+    color: #184E7F;
+}
+
+.tickets{
+    margin-top: 20px;
+}
+
+.ticketdisplay_container{
+
+    margin-bottom: 15px;
+    flex: 1;
+}
+
+
+.ticketdisplay_topcontainer{
+    border: 1px solid #8888;
+    padding: 10px;
+}
+
+.ticketheader_content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 20px;
+
+}
+
+.ticketheader_content > div > p{
+    font-family: "Montserrat", sans-serif;
+    font-weight:500;
+    font-size: 13px;
+}
+
+.ticketheader1{
+    display: flex;
+    flex-direction: row;
+}
+
+.ticketheader1 > h4{
+    padding-left: 5px;
+    font-family: "Montserrat", sans-serif;
+    font-weight:600;
+}
+
+.ticketcircle_color{
+    width: 25px;
+    height: 25px;
+    border-radius: 15px;
+    background-color: yellow;
+}
+
+.ticket_message{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 16px;
+    padding-bottom: 20px;
+}
+
+.ticket_message > h3{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+}
+
+.ticket_message > h4{
+    font-family: "Montserrat", sans-serif;
+    font-weight:600;
+}
+
+.ticketperson_infocontainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.ticketperson_infocontainer > div{
+    display: flex;
+}
+
+.userprofile{
+    padding-top: 5px;
+    padding-right: 5px;
+}
+
+.userprofile > div{
+    background-color: #8888;
+    border-radius: 25px;
+    height: 40px;
+    width: 40px;
+}
+
+.userprofile > div >img{
+    height: 40px;
+}
+
+
+.userinfo_conatiner >h4,p{
+    color: #84818A;
+    padding-bottom: 2px;
+}
+
+.userinfo_conatiner >h4{
+    font-weight: 600;
+}
+
+.userinfo_conatiner > p{
+    font-size: small;
+}
+
+

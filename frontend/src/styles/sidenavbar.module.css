@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sidenavbar_container{
+    background-color: #F9FAFB;
+    width: 90px;
+    height: 99.5vh;
+    border: 2px solid #c3c3c3;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.sidenav_cmplogo{
+    margin-top: 10px;
+    width: 50px;
+    padding: 10px;
+}
+
+.symbol_container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.symbol_container > div > span{
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.symbol_container > div{
+    padding-bottom: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.symbol_container > div > p{
+    font-size:x-small;
+    text-align: center;
+    cursor: pointer;
+    width: 70px;
+}
+
+.defaultadminimg_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

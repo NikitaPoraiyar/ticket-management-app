@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.teampage_container{
+    font-family: "Inter", sans-serif;
+}
+
+.teampage_container > hr{
+    color: #6a6a6a;
+}
+
+.teamheader_container{
+    padding-left: 20px;
+    padding-bottom: 50px;
+    padding-top: 25px;
+    color: #6A6B70;
+    font-weight:500
+}
+
+.teamtable_headercontainer{
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    color: #184E7F;
+    
+}
+
+.teamtable_headercontainer > div > h4{
+    font-weight: 500;
+}
+
+.image_headercontainer{
+    width: 5%;
+}
+
+.fname_headercontainer{
+    width: 10%;
+    text-align: center;
+}
+
+.phone_headercontainer{
+    width: 15%;
+    text-align: center;
+}
+
+.email_headercontainer{
+    width: 15%;
+    text-align: center;
+}
+
+.role_headercontainer{
+    width: 10%;
+    text-align: center;
+}
+
+.teamtable_bodycontainer{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    position: relative;
+}
+
+.teamtable_rowcontainer{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 2px solid #E2E8F0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.row_image, .row_name, .row_phone, .row_email, .row_role{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: small;
+}
+
+.teamtable_rowcontainer > .row_image{
+    width: 5%;
+}
+
+.row_name{
+    width: 10%;
+}
+
+.row_phone{
+    width: 15%;
+}
+
+.row_email{
+    width: 15%;
+}
+
+.row_role{
+    width: 10%;
+}
+
+.row_icons{
+    width: 45%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-top: 5px;
+}
+
+.row_editbtn{
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.row_deletebtn{
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.addbtn_container{
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    
+}
+
+.addbtn_container > button{
+    background-color: #184E7F;
+    color: #ffff;
+    width: 160px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.confirmdelete_container{
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    background-color: #FAFBFC;
+    border-radius: 10px;
+    width: 350px;
+    height: 120px;
+    position: absolute;
+    top: 90px;
+    left: 62em;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.confirmdelete_header{
+    border-radius: 10px;
+}
+
+.confirmdelete_header > p{
+    color: black;
+}
+
+.confirmdelete_body{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.confirmdelete_body > button{
+    height: 30px;
+    width: 100px;
+    border: none;
+    border-radius: 9px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 12px;
+    font-family: "Poppins", sans-serif;
+    font-weight:500;
+}
+
+.canceldelete_btn{
+    background-color: #AFAFAF;
+    color: #ffff;
+    margin-right: 10px
+}
+
+.confirmdelete_btn{
+    background-color: #184E7F;
+    color: #FAFBFC;
+}
+

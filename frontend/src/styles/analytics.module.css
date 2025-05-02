@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.analytics_container{
+    width: 100%;
+    /* padding-left: 10px; */
+    font-family: "Inter", sans-serif;
+}
+
+.analytics_headercontainer{
+    /* padding-left: 20px; */
+    padding-bottom: 30px;
+    padding-top: 25px;
+    color: #6A6B70;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+.missedchats_container{
+    margin-left: 20px;
+}
+
+.missedchats_container > h2{
+    color: limegreen;
+    padding-bottom: 20px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+}
+
+.averagereplytime_container, .totalchats_container, .resolvedtickets_container{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+
+}
+
+.left_avgtimecontainer{
+    width: 670px;
+    margin-right: 5px;
+    text-align: left;
+    margin-bottom: 15px
+}
+
+.left_avgtimecontainer > h2, .left_resolvedticketscontainer > h2, .left_totalchatscontainer > h2{
+    color: limegreen;
+    padding: 10px 0;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+}
+
+.left_avgtimecontainer > p, .left_totalchatscontainer > p, .left_resolvedticketscontainer > p{
+    color: black;
+    font-size: 12px;
+}
+
+.right_avgtimecontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5px;
+    /* border: 1px solid red; */
+    padding: 20px;
+    color: limegreen;
+}
+
+.left_resolvedticketscontainer{
+    width: 670px;
+    /* word-spacing: 1px; */
+    text-align: left;
+    margin-right: 5px;
+}
+
+.right_resolvedticketscontainer{
+    width: 100px;
+    /* height: 100px; */
+    margin-left: 5px;
+    padding: 20px;
+}
+
+
+.left_totalchatscontainer{
+    width: 670px;
+    text-align: left;
+    margin-left: 5px;
+}
+
+.right_totalchatscontainer{
+    width: 102px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5px;
+    /* border: 1px solid red; */
+    padding: 20px;
+    color: limegreen;
+}
+
