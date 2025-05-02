@@ -33,7 +33,7 @@ function Chat() {
     useEffect(() => {
         const fetchStyles = async () => {
             try {
-                const response = await fetch('http://localhost:3000/api/users/styles');
+                const response = await fetch('https://ticket-management-app.onrender.com/api/users/styles');
                 if (response.ok) {
                     const data = await response.json();
                     if (data.data && data.data.length > 0) {
@@ -58,7 +58,7 @@ function Chat() {
         e.preventDefault();
         setShowForm(true);
         try{
-            const res = await fetch(`http://localhost:3000/api/chat/formSubmission`, {
+            const res = await fetch(`https://ticket-management-app.onrender.com/api/chat/formSubmission`, {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
@@ -89,7 +89,7 @@ function Chat() {
         if(!chatformData.message || !sessionId) return;
         
         try{
-            const res = await fetch(`http://localhost:3000/api/chat/formSubmission/${sessionId}/message`, {
+            const res = await fetch(`https://ticket-management-app.onrender.com/api/chat/formSubmission/${sessionId}/message`, {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",

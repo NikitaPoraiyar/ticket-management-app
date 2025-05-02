@@ -25,7 +25,7 @@ function chatbotpage() {
         const fetchsavedstyles = async() => {
             try{
                 setIsLoading(true);
-                const response = await fetch('http://localhost:3000/api/users/styles');
+                const response = await fetch('https://ticket-management-app.onrender.com/api/users/styles');
                 const data = await response.json();
 
                 if(response.ok && data.success && data.data && data.data.length > 0) {
@@ -60,11 +60,11 @@ function chatbotpage() {
             missedChatTimer
         };
         try{
-            let url = "http://localhost:3000/api/users/styles";
+            let url = "https://ticket-management-app.onrender.com/api/users/styles";
             let method = "POST";
 
             if(styleId){
-                url=`http://localhost:3000/api/users/styles/${styleId}`;
+                url=`https://ticket-management-app.onrender.com/api/users/styles/${styleId}`;
                 method = "PUT"
             }
 

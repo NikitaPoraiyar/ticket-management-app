@@ -37,7 +37,7 @@ function AddMemberModal({ isOpen, onClose, onMemberAdded }) {
                 return;
             }
 
-            const res = await fetch(`http://localhost:3000/api/users/addmember`, {
+            const res = await fetch(`https://ticket-management-app.onrender.com/api/users/addmember`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',

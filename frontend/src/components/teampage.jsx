@@ -20,7 +20,7 @@ function TeamPage() {
     useEffect(() => {
         const token = localStorage.getItem('token');
         if (token) {
-            fetch('http://localhost:3000/api/users/contactcenter', {
+            fetch('https://ticket-management-app.onrender.com/api/users/contactcenter', {
                 method: 'GET',
                 headers:{
                     'Authorization': `Bearer ${token}`
@@ -31,7 +31,7 @@ function TeamPage() {
                 if (data.user) {
                     setUser(data.user); 
 
-                    return fetch('http://localhost:3000/api/users/teammates', {
+                    return fetch('https://ticket-management-app.onrender.com/api/users/teammates', {
                         method: 'GET',
                         headers:{
                             'Authorization': `Bearer ${token}`
@@ -70,7 +70,7 @@ function TeamPage() {
     const token = localStorage.getItem('token');
     if (token) {
         try {
-            const res = await fetch(`http://localhost:3000/api/users/deletemember/${memberToDelete._id}`, {
+            const res = await fetch(`https://ticket-management-app.onrender.com/api/users/deletemember/${memberToDelete._id}`, {
                 method: 'DELETE',
                 headers: {
                     'Authorization': `Bearer ${token}`

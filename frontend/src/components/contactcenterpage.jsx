@@ -34,7 +34,7 @@ function contactcenterpage() {
     useEffect(() => {
         const token = localStorage.getItem('token');
         if (token) {
-            fetch('http://localhost:3000/api/users/contactcenter', {
+            fetch('https://ticket-management-app.onrender.com/api/users/contactcenter', {
                 method: 'GET',
                 headers:{
                     'Authorization': `Bearer ${token}`
@@ -54,7 +54,7 @@ function contactcenterpage() {
 
             
 
-            fetch('http://localhost:3000/api/users/teammates', {
+            fetch('https://ticket-management-app.onrender.com/api/users/teammates', {
                 method: 'GET',
                 headers:{
                     'Authorization': `Bearer ${token}`
@@ -79,7 +79,7 @@ function contactcenterpage() {
 
     const refreshChats = () => {
         const token = localStorage.getItem('token');
-        fetch('http://localhost:3000/api/users/formsubmissions', {
+        fetch('https://ticket-management-app.onrender.com/api/users/formsubmissions', {
             method: 'GET',
             headers:{
                 'Authorization': `Bearer ${token}`
@@ -147,7 +147,7 @@ function contactcenterpage() {
             status: chats[active].responseStatus || 'Unresolved'
         });
 
-        fetch(`http://localhost:3000/api/users/formsubmissions/${chats[active].id}`, {
+        fetch(`https://ticket-management-app.onrender.com/api/users/formsubmissions/${chats[active].id}`, {
             method: 'PUT',
             headers: {
                 'Content-Type': 'application/json',
@@ -193,7 +193,7 @@ function contactcenterpage() {
         const currentTeammateId = pendingTeammate?._id || chats[active].assignedTeammate?._id;
 
         const token = localStorage.getItem('token');
-        fetch(`http://localhost:3000/api/users/formsubmissions/${chats[active].id}`, {
+        fetch(`https://ticket-management-app.onrender.com/api/users/formsubmissions/${chats[active].id}`, {
             method: 'PUT',
             headers: {
                 'Content-Type': 'application/json',
@@ -235,7 +235,7 @@ function contactcenterpage() {
     const handleSendResponse =() =>{
         if(!chats[active]) return;
         const token = localStorage.getItem('token');
-        fetch(`http://localhost:3000/api/users/formsubmissions/${chats[active].id}/response`, {
+        fetch(`https://ticket-management-app.onrender.com/api/users/formsubmissions/${chats[active].id}/response`, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',

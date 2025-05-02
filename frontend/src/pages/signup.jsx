@@ -24,7 +24,7 @@ function signup() {
         }
         
         try{
-            const res = await fetch(`http://localhost:3000/api/users/signup`, {
+            const res = await fetch(`https://ticket-management-app.onrender.com/api/users/signup`, {
                 method: 'POST',
                 headers: {
                     'Content-type' : 'application/json',

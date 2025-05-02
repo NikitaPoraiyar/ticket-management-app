@@ -9,7 +9,7 @@ function settingpage() {
     useEffect(() => {
         const token = localStorage.getItem('token');
         if (token) {
-            fetch('http://localhost:3000/api/users/contactcenter', {
+            fetch('https://ticket-management-app.onrender.com/api/users/contactcenter', {
                 method: 'GET',
                 headers:{
                     'Authorization': `Bearer ${token}`
@@ -39,7 +39,7 @@ function settingpage() {
         if(!token) return;
 
         try{
-            const response = await fetch('http://localhost:3000/api/users/updatePassword', {
+            const response = await fetch('https://ticket-management-app.onrender.com/api/users/updatePassword', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',

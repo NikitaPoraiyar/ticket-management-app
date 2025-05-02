@@ -30,7 +30,7 @@ function analyticspage() {
     useEffect(() => {
         const token = localStorage.getItem('token');
         if (token) {
-          fetch('http://localhost:3000/api/users/formsubmissions', {
+          fetch('https://ticket-management-app.onrender.com/api/users/formsubmissions', {
             method: 'GET',
             headers: {
               'Authorization': `Bearer ${token}`
